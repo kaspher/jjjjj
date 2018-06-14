@@ -67,15 +67,6 @@ function pauseaudio3() {
 }
 
 
-// Piąty dźwięk
-var audio4 = document.getElementById("muzyka4");
-var obrazek4 = document.getElementById("obrazek4");
-
-obrazek4.addEventListener("click", playaudio4);
-
-function playaudio4() {
-    muzyka4.play();
-}
 
 
 
